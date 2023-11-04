@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "768005594736",
+    "firebase_url": "https://medicineapp-4309c-default-rtdb.firebaseio.com",
+    "project_id": "medicineapp-4309c",
+    "storage_bucket": "medicineapp-4309c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768005594736:android:35cfa8c9143d2885e95eb5",
+        "android_client_info": {
+          "package_name": "br.com.medicineapp.rbtvini.medicineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWBb48bSp8qt57xjEZhq5z909z2wlDCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
